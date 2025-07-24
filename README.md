@@ -91,4 +91,4 @@ The high recall score is the most significant result, as the primary goal of a m
 
 ## 5. Conclusion
 
-This project successfully demonstrates the power of combining domain-specific feature engineering with a systematic exploration of advanced machine learning models. The final ensemble classifier is not only accurate but also robust and interpre
+This project successfully demonstrates the power of combining domain-specific feature engineering with a systematic exploration of advanced machine learning models. The final ensemble classifier is not only accurate but also robust and interpretable, making it a strong proof-of-concept for an automated osteoporosis screening tool. The key takeaway is that a deep understanding of the problem domain can lead to feature engineering strategies that allow classical, interpretable models to achieve state-of-the-art performance.
